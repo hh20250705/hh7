@@ -13,6 +13,6 @@
 这些平台内容丰富，从经典影片到最新热门作品，应有尽有，且无需支付任何费用。它们通过广告支持，完全免费，确保你不需要担心额外费用。
 此外，平台注重隐私保护，采用加密技术确保用户的个人信息安全。界面简洁，功能强大，让你可以快速找到自己感兴趣的影片，享受无广告、无干扰的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hh20250705/hh7 ）</span>
 
 
